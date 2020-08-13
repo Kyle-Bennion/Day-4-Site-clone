@@ -12,3 +12,21 @@ footer{
   min-height: 10vh;
 }
 
+header{
+  height: 10vh;
+}
+
+.navim{
+  max-width: 100px;
+  max-height: 50px;
+}
+
+.itemsh{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+a{
+  color: whitesmoke;
+}
