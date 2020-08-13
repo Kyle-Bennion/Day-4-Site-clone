@@ -30,3 +30,33 @@ header{
 a{
   color: whitesmoke;
 }
+
+a:hover{
+  color: burlywood;
+}
+
+hr{
+  border-color: var(--dark);
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.product-bg{
+  background: url(hero.jpg);
+  background-size: cover;
+  background-position: center;
+  min-height: 100vh;
+}
+
+.fake-nav{
+  display: flex;
+  align-items: center;
+}
+
+.test-1{
+  justify-content: space-around;
+}
